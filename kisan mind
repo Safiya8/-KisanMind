@@ -130,8 +130,8 @@ def main():
     </style>
     <div class='footer'>
         <p>© 2024 Kisan Mind India | Made with ❤️ by <a href="https://www.linkedin.com/in/theshivam7/">Shivam 🍁</a> | 
-        <a href="www.linkedin.com/in/samyukthajeevanantham" | 
-        <a href="https://github.com/Samyuktha2675/Samyuktha2675
+        <a href="www.linkedin.com/in/safiya nasreen" | 
+        <a href="https://github.com/Safiya8/Safiya8
 ">GitHub</a></p>
     </div>
     """, unsafe_allow_html=True)
